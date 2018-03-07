@@ -161,6 +161,7 @@
 		1B687C971FE432BC00F39CFE /* PerformanceMetricsTracker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B687C961FE432BC00F39CFE /* PerformanceMetricsTracker.swift */; };
 		1BBEB6091F333E5600D06526 /* UIImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BBEB6081F333E5600D06526 /* UIImage.swift */; };
 		1BBEB60C1F333E6E00D06526 /* UIImageTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BBEB60A1F333E6600D06526 /* UIImageTestCase.swift */; };
+		1F8DAFAA20500FB1000B8A11 /* UINavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8DAFA920500FB1000B8A11 /* UINavigationController.swift */; };
 		68DCF2391F7D0C1400D6BB88 /* StrategyFetchResource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68DCF2381F7D0C1400D6BB88 /* StrategyFetchResource.swift */; };
 /* End PBXBuildFile section */
 
@@ -340,6 +341,7 @@
 		1B687C961FE432BC00F39CFE /* PerformanceMetricsTracker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerformanceMetricsTracker.swift; sourceTree = "<group>"; };
 		1BBEB6081F333E5600D06526 /* UIImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIImage.swift; sourceTree = "<group>"; };
 		1BBEB60A1F333E6600D06526 /* UIImageTestCase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIImageTestCase.swift; sourceTree = "<group>"; };
+		1F8DAFA920500FB1000B8A11 /* UINavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UINavigationController.swift; sourceTree = "<group>"; };
 		68DCF2381F7D0C1400D6BB88 /* StrategyFetchResource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrategyFetchResource.swift; sourceTree = "<group>"; };
 		OBJ_6 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -488,6 +490,7 @@
 				1B4033571ED8927E00B4B03D /* ViewModelCollectionViewCell.swift */,
 				1B4033591ED8A59100B4B03D /* ViewModelTableViewCell.swift */,
 				1B40335B1ED8A62900B4B03D /* ViewModelTableViewHeaderFooterView.swift */,
+				1F8DAFA920500FB1000B8A11 /* UINavigationController.swift */,
 			);
 			path = UIKit;
 			sourceTree = "<group>";
@@ -1052,6 +1055,7 @@
 				0A3C2DA01EA7E5DD00EFB7D4 /* LogItemFormatter.swift in Sources */,
 				1B57E97F1EB1510D0027AB30 /* AnalyticsTracker.swift in Sources */,
 				0A3C2D991EA7E5DD00EFB7D4 /* Log+Item.swift in Sources */,
+				1F8DAFAA20500FB1000B8A11 /* UINavigationController.swift in Sources */,
 				0A3C2DA21EA7E5DD00EFB7D4 /* Mappable.swift in Sources */,
 				1B57E9811EB155A30027AB30 /* Page.swift in Sources */,
 				0A3C2D981EA7E5DD00EFB7D4 /* Log+FileLogDestination.swift in Sources */,
